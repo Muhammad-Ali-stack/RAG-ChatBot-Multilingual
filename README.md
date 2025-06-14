@@ -17,5 +17,5 @@ npm i
 3. Run ChatBot
 
 ```
-streamlit app.py
+streamlit run app.py
 ```
