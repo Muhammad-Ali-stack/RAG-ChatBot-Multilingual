@@ -6,3 +6,17 @@
 npm i
 --Run Starting Command
 streamlit app.py
+## Get started
+
+1. Set up your Python environment
+
+```
+python -m venv env
+source env/bin/activate
+```
+
+2. Install Agents SDK
+
+```
+pip install openai-agents
+```
